@@ -1,4 +1,4 @@
-# WeatherAPI
+# WeatherAPI client
 Work in progress on gathering Data from BOM weather
 
 * uses following modules
